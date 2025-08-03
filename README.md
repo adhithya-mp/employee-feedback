@@ -78,7 +78,7 @@ POST /api/token/refresh/
 }
 
 
-👨‍💼 Employees
+ Employees
 
  List Employees
 
